@@ -1,0 +1,14 @@
+﻿{
+    "profiles":  {
+                     "Kinevor.Modules.Members.DemoApi":  {
+                                                             "dotnetRunMessages":  true,
+                                                             "commandName":  "Project",
+                                                             "environmentVariables":  {
+                                                                                          "ASPNETCORE_ENVIRONMENT":  "Development"
+                                                                                      },
+                                                             "launchBrowser":  false,
+                                                             "applicationUrl":  "http://localhost:5083"
+                                                         }
+                 },
+    "$schema":  "http://json.schemastore.org/launchsettings.json"
+}
